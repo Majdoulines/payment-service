@@ -1,7 +1,7 @@
-package com.marketplace.payment.repository;
+package com.marketplace.payment_service.repository;
 
-import com.marketplace.payment.entity.LedgerEntry;
-import com.marketplace.payment.enums.Direction;
+import com.marketplace.payment_service.entity.LedgerEntry;
+import com.marketplace.payment_service.enums.Direction;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

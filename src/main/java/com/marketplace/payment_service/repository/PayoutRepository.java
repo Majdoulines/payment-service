@@ -1,7 +1,7 @@
-package com.marketplace.payment.repository;
+package com.marketplace.payment_service.repository;
 
-import com.marketplace.payment.entity.Payout;
-import com.marketplace.payment.enums.PayoutStatus;
+import com.marketplace.payment_service.entity.Payout;
+import com.marketplace.payment_service.enums.PayoutStatus;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

@@ -1,6 +1,6 @@
-package com.marketplace.payment.repository;
+package com.marketplace.payment_service.repository;
 
-import com.marketplace.payment.entity.Refund;
+import com.marketplace.payment_service.entity.Refund;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
